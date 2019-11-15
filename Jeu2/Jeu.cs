@@ -19,6 +19,7 @@
             else
             {
                 Heros.PerdsUnCombat(deMonstre - deHeros);
+                erreur bete;
                 return Resultat.Perdu;
             }
         }
